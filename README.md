@@ -1,4 +1,4 @@
-# Parallel-KMeans
+# Parallel kmeans scripts
 <div style="text-align: justify">R is a powerful scripting language for mapping and data visualization, which can execute a large number of mathematical models and algorithms. However, due to its low system execution efficiency, it will be difficult to deal with the problem of large amount of data. Here is a case of parallel kmeans clustering for everyone to learn. </div>
 <div style="text-align: justify"> <br> </div>
 <div style="text-align: justify">For the parallel running script of kmean mean value, the best of the 10 running results is better selected. After testing, it does not affect the operation results, greatly speeds up the operation speed and saves the script operation time. It is recommended to use when calculating large data sets.  </div>
